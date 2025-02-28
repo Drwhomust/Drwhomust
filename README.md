@@ -1,16 +1,30 @@
 ## Hi there 👋
+I am Drwhomust! (not a real doctor) I am a software developer and video game developer
 
-<!--
-**Drwhomust/Drwhomust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a furry, and therian and i make programs for fun and make games from ideas i had randomly
 
-Here are some ideas to get you started:
+## What do you know?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I know how to use a lot of game Engines and programming languages but here is a small list i know
+
+### programming languages
+
+- Lua
+- GML
+- Java
+- JavaScript
+- and more
+
+### Game Engines
+
+- GameMaker
+- Roblox
+- GoDot
+- Unity
+- and more
+
+## anything else?
+
+I do like sence style. and i love old and retro stuff!
+
+that's all, it was nice to meet you
