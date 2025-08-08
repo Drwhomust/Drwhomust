@@ -1,11 +1,11 @@
 ## Hi there 👋
 I am Drwhomust! (not a real doctor) I am a software developer and video game developer
 
-I am a furry, and therian and i make programs for fun and make games from ideas i had randomly
+I am a furry, and therian and i make programs for fun and i make games from ideas i had randomly
 
 ## What do you know?
 
-I know how to use a lot of game Engines and programming languages but here is a small list i know
+I know how to use a lot of game engines and programming languages but here is a small list i know
 
 ### programming languages
 
@@ -13,7 +13,7 @@ I know how to use a lot of game Engines and programming languages but here is a 
 - GML
 - Java
 - JavaScript
-- and more
+- And More
 
 ### Game Engines
 
@@ -27,4 +27,6 @@ I know how to use a lot of game Engines and programming languages but here is a 
 
 I do like sence style. and i love old and retro stuff!
 
-that's all, it was nice to meet you
+I am also a big suckker for witchcraft!
+
+and... that's all, it was nice to meet you
