@@ -27,6 +27,6 @@ I know how to use a lot of game engines and programming languages but here is a 
 
 I do like sence style. and i love old and retro stuff!
 
-I am also a big suckker for witchcraft!
+I am also a big sucker for witchcraft!
 
 and... that's all, it was nice to meet you
