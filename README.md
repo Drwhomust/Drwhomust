@@ -9,11 +9,11 @@ I know how to use a lot of game engines and programming languages but here is a 
 
 ### programming languages
 
-- Lua
+- Lua (and Luau)
 - GML
-- Java
+- Java (just a bit)
 - JavaScript
-- And More
+- And C#
 
 ### Game Engines
 
@@ -21,6 +21,7 @@ I know how to use a lot of game engines and programming languages but here is a 
 - Roblox
 - GoDot
 - Unity
+- Love2D
 - and more
 
 ## anything else?
