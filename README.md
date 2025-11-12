@@ -19,7 +19,6 @@ I know how to use a lot of game engines and programming languages but here is a 
 
 - GameMaker
 - Roblox
-- GoDot
 - Unity
 - Love2D
 - and more
