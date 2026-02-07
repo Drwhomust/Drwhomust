@@ -11,7 +11,6 @@ I know how to use a lot of game engines and programming languages but here is a 
 ### programming languages
 
 - Lua (and Luau)
-- GML
 - Java (just a bit)
 - JavaScript
 - And C#
